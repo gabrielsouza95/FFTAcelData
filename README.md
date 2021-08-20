@@ -9,4 +9,8 @@
   </p>
 <span><img style="max-width:50px; max-height:50px;" src="https://github.com/gabrielsouza95/FFTAcelData/blob/master/FFTAcelData/plot_result_colab.png" alt="Primeiro teste no carro">
 </span>
+  <h7>To Do</h7>
+  <p>
+    Será adicionado gravação do arduino exibindo os valores do arquivo de entrada utilizado para ter essa saída da Transformada de Fourier acima.
+  </p>
 </body>
